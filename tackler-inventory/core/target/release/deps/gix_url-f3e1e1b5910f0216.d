@@ -1,0 +1,11 @@
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/gix_url-f3e1e1b5910f0216.d: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/expand_path.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/scheme.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/impls.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/parse.rs
+
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/libgix_url-f3e1e1b5910f0216.rlib: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/expand_path.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/scheme.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/impls.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/parse.rs
+
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/libgix_url-f3e1e1b5910f0216.rmeta: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/expand_path.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/scheme.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/impls.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/parse.rs
+
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/lib.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/expand_path.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/scheme.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/impls.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-url-0.31.0/src/parse.rs:

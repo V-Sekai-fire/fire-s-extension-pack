@@ -1,0 +1,10 @@
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/sha1_checked-a27cba68a6e52050.d: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/compress.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/ubc_check.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/../README.md
+
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/libsha1_checked-a27cba68a6e52050.rlib: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/compress.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/ubc_check.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/../README.md
+
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/libsha1_checked-a27cba68a6e52050.rmeta: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/compress.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/ubc_check.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/../README.md
+
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/lib.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/compress.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/ubc_check.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sha1-checked-0.10.0/src/../README.md:

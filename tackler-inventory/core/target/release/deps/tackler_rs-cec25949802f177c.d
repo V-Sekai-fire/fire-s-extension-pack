@@ -1,0 +1,10 @@
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/tackler_rs-cec25949802f177c.d: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex/serde.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex/serde/full_haystack_matcher.rs
+
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/libtackler_rs-cec25949802f177c.rlib: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex/serde.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex/serde/full_haystack_matcher.rs
+
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/libtackler_rs-cec25949802f177c.rmeta: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex/serde.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex/serde/full_haystack_matcher.rs
+
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/lib.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex/serde.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tackler-rs-0.10.1/src/regex/serde/full_haystack_matcher.rs:

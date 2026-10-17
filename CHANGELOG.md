@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## 0.10.0
+
+- Add fire.tackler-inventory extension.
+
 ## 0.9.1
 
 - Remove maxie-homrich.copilot-for-vscode-oss extension.

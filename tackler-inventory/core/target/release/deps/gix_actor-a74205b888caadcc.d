@@ -1,0 +1,10 @@
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/gix_actor-a74205b888caadcc.d: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/identity.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/signature/mod.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/signature/decode.rs
+
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/libgix_actor-a74205b888caadcc.rlib: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/identity.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/signature/mod.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/signature/decode.rs
+
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/libgix_actor-a74205b888caadcc.rmeta: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/identity.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/signature/mod.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/signature/decode.rs
+
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/lib.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/identity.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/signature/mod.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-actor-0.35.6/src/signature/decode.rs:

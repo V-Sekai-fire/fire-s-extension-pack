@@ -2,7 +2,7 @@
     "name": "fire-s-extension-pack",
     "displayName": "Fire's Extension Pack",
     "description": "Fire's Extension Pack",
-    "version": "0.9.1",
+    "version": "0.10.0",
     "publisher": "fire",
     "repository": "https://github.com/fire/fire-s-extension-pack.git",
     "engines": {
@@ -34,6 +34,7 @@
         "formulahendry.acp-client",
         "jeanp413.open-remote-wsl",
         "mermaid-lint.mermaid-lint-vscode",
-        "ThorVG.thorvg-liveview"
+        "ThorVG.thorvg-liveview",
+        "fire.tackler-inventory"
     ]
 }

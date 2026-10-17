@@ -1,0 +1,10 @@
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/gix_tempfile-1940eb39a12822e1.d: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/forksafe.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/handle.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/registry.rs
+
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/libgix_tempfile-1940eb39a12822e1.rlib: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/forksafe.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/handle.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/registry.rs
+
+/Users/ernest.lee/.hermes/cache/scratch/fxp/tackler-inventory/core/target/release/deps/libgix_tempfile-1940eb39a12822e1.rmeta: /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/lib.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/forksafe.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/handle.rs /Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/registry.rs
+
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/lib.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/forksafe.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/handle.rs:
+/Users/ernest.lee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gix-tempfile-17.1.0/src/registry.rs:
